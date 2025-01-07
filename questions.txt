@@ -1,0 +1,12 @@
+What do you consider to be the most important political issue?
+1. Environment
+2. Personal freedom
+3. Border security
+4. Education
+                                                                    Green = 0, Libertarian = 1, Republican = 2, Democrat = 3
+What should the government do to help the poor?
+1. Create grants for low income energy conservation programs
+2. Allow parents to use education funds for charter schools
+3. Create welfare to work programs
+4. Make it easier to apply for assistance
+

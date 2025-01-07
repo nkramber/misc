@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PoliticalPartyGuesser",
+            "request": "launch",
+            "mainClass": "PoliticalPartyGuesser",
+            "projectName": "misc_964f6b81"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
