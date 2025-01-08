@@ -3,10 +3,40 @@ What do you consider to be the most important political issue?
 2. Personal freedom
 3. Border security
 4. Education
-                                                                    Green = 0, Libertarian = 1, Republican = 2, Democrat = 3
+
 What should the government do to help the poor?
 1. Create grants for low income energy conservation programs
 2. Allow parents to use education funds for charter schools
 3. Create welfare to work programs
 4. Make it easier to apply for assistance
+
+Who should be taxed the most?
+1. Whoever uses the most ineffiecent energy sources
+2. There should be no taxes
+3. Everyone should be taxed equally
+4. The rich should pay more in taxes
+
+What are your thoughts on climate change?
+1. Immediate systemic action is necessary to prevent global catastrophe
+2. The government shouldn't tell individuals how to live their lives
+3. The free market should decide how to respond to this issue
+4. The government should do better at preventing excessive waste and pollution
+
+What are your thoughts on gay marriage?
+1. It doesn't affect me personally
+2. Everyone should be able to choose for themselves
+3. It should not be legal
+4. It should be legal
+
+Should the government incentivise driving electric cars?
+1. Yes, there should be tax credits for driving electric cars
+2. The government shouldn't tell individuals what kind of cars to drive
+3. Absolutely not
+4. It doesn't affect me personally
+
+Does the government have a special responsibility to assist minorities?
+1. It doesn't affect me personally
+2. The government should treat everyone equally
+3. Only if they are here legally
+4. Yes, absolutely
 
