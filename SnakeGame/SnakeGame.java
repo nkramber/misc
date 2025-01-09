@@ -229,7 +229,6 @@ public class SnakeGame extends Canvas implements Runnable, KeyListener {
             g.setFont(new Font("Arial", Font.BOLD, 48));
             xCenterText(g, "Game over!", -100);
             g.setFont(new Font("Arial", Font.BOLD, 30));
-            xCenterText(g, "You score " + score + " points", -60);
             xCenterText(g, "Press ESCAPE to quit", 40);
             xCenterText(g, "Press ENTER to play again", 85);
         }
