@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame.SnakeGame",
+            "projectName": "misc_964f6b81"
+        },
+        {
+            "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame",
+            "projectName": "misc_964f6b81"
+        },
+        {
+            "type": "java",
+            "name": "RaycastingGame",
+            "request": "launch",
+            "mainClass": "RaycastingGame",
+            "projectName": "misc_964f6b81"
+        },
+        {
+            "type": "java",
+            "name": "Raycaster",
+            "request": "launch",
+            "mainClass": "Raycaster",
+            "projectName": "misc_964f6b81"
+        },
+        {
+            "type": "java",
             "name": "PoliticalPartyGuesser",
             "request": "launch",
             "mainClass": "PoliticalPartyGuesser",
