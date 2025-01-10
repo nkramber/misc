@@ -5,11 +5,8 @@ public class SnakeHead extends SnakeCell {
 
     public SnakeHead(int x, int y) {
         super(x, y);
-        // if (r.nextBoolean()) xDir = r.nextBoolean() ? 1 : -1;
-        // else yDir = r.nextBoolean() ? 1 : -1;
-
-        xDir = -1;
-        yDir = 0;
+        if (SnakeGame.r.nextBoolean()) xDir = SnakeGame.r.nextBoolean() ? 1 : -1;
+        else yDir = SnakeGame.r.nextBoolean() ? 1 : -1;
 
         newXDir = newYDir = 0;
     }
